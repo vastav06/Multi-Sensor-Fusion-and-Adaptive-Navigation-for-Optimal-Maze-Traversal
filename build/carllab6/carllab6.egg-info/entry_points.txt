@@ -1,0 +1,5 @@
+[console_scripts]
+class = carllab6.classifierNode:main
+go = carllab6.goToWall:main
+range = carllab6.getObjectRange:main
+
